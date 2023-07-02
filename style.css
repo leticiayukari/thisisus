@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    
+}
+
+.bandas {
+    width: 400px;
+    height: 400px;
+    margin: 20px;
+}
+
+
+.primeira-coluna {
+    display: flex;
+    justify-content: center;
+}
+
+.segunda-coluna {
+    display: flex;
+    justify-content: center;
+}
+
+
